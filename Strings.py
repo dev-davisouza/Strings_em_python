@@ -274,3 +274,8 @@ def travessia_do_alfabeto(índice):
     if alfabeto.find('z'):
         return
     travessia_do_alfabeto(índice +1)
+  
+
+'''
+By Davi Souza :3; é muito bom compartilhar conhecimento com vcs, até mais!
+'''
